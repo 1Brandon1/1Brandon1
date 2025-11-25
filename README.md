@@ -57,6 +57,4 @@ me.intro()
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=1Brandon1&theme=transparent&hide_border=true&layout=compact)
 ![](https://nirzak-streak-stats.vercel.app/?user=1Brandon1&theme=transparent&hide_border=true)
-![](https://github-readme-stats.vercel.app/api?username=1Brandon1&theme=transparent&hide_border=true)
-
-<!-- Profile crafted partailly ❤️ using GPRM (https://gprm.itsvg.in) -->
+<!--  ![](https://github-readme-stats.vercel.app/api?username=1Brandon1&theme=transparent&hide_border=true) -->
